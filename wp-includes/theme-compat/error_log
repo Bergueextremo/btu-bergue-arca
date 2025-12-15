@@ -1,0 +1,12 @@
+[09-May-2025 17:35:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/agen4346/btuarcondicionados.com.br/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-includes/theme-compat/embed.php on line 13
+[15-May-2025 16:20:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home2/agen4346/btuarcondicionados.com.br/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-includes/theme-compat/embed.php on line 13
+[02-Sep-2025 00:11:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/agen4346/btuarcondicionados.com.br/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-includes/theme-compat/header.php on line 9

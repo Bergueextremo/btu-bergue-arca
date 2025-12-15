@@ -1,0 +1,4 @@
+[12-Aug-2025 04:30:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home2/agen4346/btuarcondicionados.com.br/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-includes/customize/class-wp-customize-date-time-control.php on line 17

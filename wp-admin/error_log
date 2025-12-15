@@ -1,0 +1,36 @@
+[15-Feb-2023 15:02:15 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home2/agen4346/btuarcondicionados.com.br/wp-content/plugins/wordpress-seo/src/integrations/third-party/elementor.php on line 163
+[15-Feb-2023 15:02:59 UTC] PHP Warning:  Attempt to read property "post_type" on null in /home2/agen4346/btuarcondicionados.com.br/wp-content/plugins/wordpress-seo/src/integrations/third-party/elementor.php on line 163
+[24-Apr-2023 12:16:16 UTC] Astra Addon: DB version updated!
+[24-Apr-2023 12:16:16 UTC] Astra Addon: Batch Process Completed!
+[10-Jul-2023 12:13:10 UTC] Astra Addon: DB version updated!
+[10-Jul-2023 12:13:10 UTC] Astra Addon: Batch Process Completed!
+[05-Feb-2024 11:52:09 UTC] Astra Addon: DB version updated!
+[05-Feb-2024 11:52:09 UTC] Astra Addon: Batch Process Completed!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-categories.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-blocks-1.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-blocks-2.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-blocks-3.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-blocks-4.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-blocks-5.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-blocks-6.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-blocks-7.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-block-requests.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-sites-1.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-sites-2.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-sites-3.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-sites-4.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-sites-5.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-sites-6.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-sites-7.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-site-requests.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-last-export-checksums.json Created Successfully!
+[17-Apr-2024 16:12:58 UTC] File: ast-block-templates-customizer-css.json Created Successfully!
+[20-May-2024 11:13:02 UTC] Astra Addon: DB version updated!
+[20-May-2024 11:13:02 UTC] Astra Addon: Batch Process Completed!
+[24-Jun-2024 12:40:42 UTC] Astra Addon: DB version updated!
+[24-Jun-2024 12:40:42 UTC] Astra Addon: Batch Process Completed!
+[07-Oct-2024 11:48:46 UTC] PHP Warning:  Attempt to read property "option_name" on null in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/astra/inc/lib/batch-processing/class-astra-wp-background-process.php on line 284
+[07-Oct-2024 11:48:46 UTC] PHP Warning:  Attempt to read property "option_value" on null in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/astra/inc/lib/batch-processing/class-astra-wp-background-process.php on line 285
+[07-Oct-2024 11:48:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/astra/inc/lib/batch-processing/class-astra-wp-background-process.php on line 302
+[11-Nov-2024 11:05:02 UTC] Astra Addon: Batch Process Completed!
+[07-Jul-2025 11:07:08 UTC] Astra Addon: Batch Process Completed!

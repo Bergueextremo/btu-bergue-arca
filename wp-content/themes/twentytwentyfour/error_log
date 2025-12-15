@@ -1,0 +1,32 @@
+[27-Aug-2025 08:01:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php on line 147
+[27-Aug-2025 22:25:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php on line 147
+[29-Aug-2025 04:15:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php on line 147
+[30-Aug-2025 04:51:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php on line 147
+[30-Aug-2025 18:26:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php on line 147
+[01-Sep-2025 21:03:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php on line 147
+[06-Sep-2025 12:30:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php on line 147
+[11-Sep-2025 07:57:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /home2/agen4346/btuarcondicionados.com.br/wp-content/themes/twentytwentyfour/functions.php on line 147
